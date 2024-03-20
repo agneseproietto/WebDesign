@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" initial-scale="1.0" />
+        <title>Piccolo Museo Virtuale</title>
+    </head>
+    <body>
+        <header>
+            <a href="#">
+           <h1>
+                Piccolo Museo Virtuale
+            </h1>
+            </a>
+        </header>    
+        <main>
+            <a href="artista1."><img src="/Users/agneseproietto/Desktop/Abact/Web Design/Esercizio 4/img/DaVinci.jpg" alt="immagine San giovanni battista"/></a>
+            <a href="artista2."><img src="/Users/agneseproietto/Desktop/Abact/Web Design/Esercizio 4/img/Buonarroti.jpg" alt="imagine Monnalisa"/></a>
+            <a href="artista3."><img src="Users/agneseproietto/Desktop/Abact/Web Design/Esercizio 4/img/Sanzio.jpg" alt="immagine dama con l'ermellino"/></a>
+              </main>
+        <footer>
+            Agnese Maria Proietto Cartillone, 13 marzo 2024
+        </footer>
+
+    </body>
