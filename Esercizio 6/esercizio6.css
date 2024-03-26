@@ -1,0 +1,50 @@
+h1{
+    color: red;
+}
+
+@media (max-width: 600px){
+    h1{
+        color: black;
+    }
+}
+
+h2{
+    color: black;
+}
+
+@media (max-width: 600px){
+    h2{
+        color: red;
+    }
+}
+
+#absolute{
+    position: absolute;
+    background-color: blue;
+    top: 30px;
+    right: 30px;
+    width: 200px;
+    height: 100px;
+}
+
+#fixed{
+    background-color: blueviolet;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 200px;
+    height: 100px;
+}
+
+#sticky{
+    position: sticky;
+    top: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+#contenitore{
+    width: 200px;
+    height: 1000px;
+}
